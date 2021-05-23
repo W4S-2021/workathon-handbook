@@ -19,3 +19,8 @@ We would like that as many people:
 Most importantly, we want to draw attention to issues of race, gender, and intersectionality, in particular, the impacts they have on students, faculty, and staff members, which must be evaluated by all of us. 
 
 We hope that the Workathon, like last year's, will help with this process.
+
+## Instructions for Participants
+
+(something here about NDAs).
+
