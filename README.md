@@ -14,4 +14,4 @@ To increase awareness and raise funds for these anti-discrimination causes, we w
 
 To raise as much funds as we can for the organizations, we will be promoting the event with the help of UBC and VSE media. We, along with Professor Peters, will also be reaching out to potential donors (including faculty members, local businesses, and international corporations) who may be interested in supporting our causes.
 
-By running the Workathon this year, we aim to fundraise for organizations that work to support First Nations peoples, Asian American and Pacific Islander communities, and self-identified women and children in need; and to complete a database that students and alumni can use to guide their plans for a career in economics.
+By running the Workathon this year, we aim to fundraise for organizations that work to support First Nations peoples, Asian American and Pacific Islander communities, and self-identified women and children in need; and to complete a database that students and alumni can use to guide their plans for a career in Economics.
