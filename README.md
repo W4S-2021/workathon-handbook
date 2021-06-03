@@ -1,26 +1,17 @@
 # Workathon for Solidarity 2021
 
-We are a group of alumni and undergraduates at the Vancouver School of Economics, as research assistants to [@michaelpetersubc](https://github.com/michaelpetersubc).
+The Workathon for Solidarity was originally initiated by UBC VSE students Amedeus D’souza and Felipe Grosso in 2020 to promote awareness for anti-discrimination causes by working on Econ Job Market’s (EJM) dataset for around 10 hours a day, manually collecting and developing EJM’s dataset. You can find more information about last year’s event here: [https://economics.ubc.ca/news/2020/vse-students-to-hold-workathon-to-raise-funds-for-anti-racist-queer-causes/#.YLf7ui2z1EI](https://economics.ubc.ca/news/2020/vse-students-to-hold-workathon-to-raise-funds-for-anti-racist-queer-causes/#.YLf7ui2z1EI)
 
-Following [the initiatives driven by our fellow alumni Amedeus D'Souza and Felipe Grosso last summer](https://twitter.com/W4S_2020), and in light of recent tragedies around the globe caused by systemic discrimination (add more specifics here?), we have stepped up to continue the movement against racism, misogyny, homophobia, and transphobia, all of which have led to countless preventable acts of violence.
+To continue with the efforts of building a more united community, we decided to run another Workathon this year. Recent events have compelled us to take action against the multifaceted nature of racism and misogyny, which, even in its most subtle forms, contribute to conditions that permit overt discrimination and violence to occur. Although these challenges cannot be overcome within the span of a single news cycle, donation or event, we hope to contribute to a vital conversation. All donations received will be given to the following three organizations:
 
-While we acknowledge once again that our actions alone are not enough to overcome these challenges, we hope our efforts will continue to open up vital conversations and spark further initiatives to work towards a more inclusive future.
+- Indian Residential School Survivors Society, [https://www.irsss.ca/](https://www.irsss.ca/)
+- Downtown Eastside Women’s Centre, [https://dewc.ca/](https://dewc.ca/)
+- Stop AAPI Hate, [https://stopaapihate.org/](https://stopaapihate.org/)
 
-## What We're Doing
+We, Alex Dong, James Yu, Jin Wang, and Soren Rajani, are students at the Vancouver School of Economics and currently work as research assistants to Professor Michael Peters. We want to draw attention to issues of race, ethnicity, gender, and intersectionality, in particular, the impacts they have on students, faculty, and staff members, which must be discussed and evaluated by all of us. Hopefully, the Workathon project will help that process.
 
-Over the course of three days in July (July 2 - 4), we will be doing another "Workathon" to add to the EconJobMarket (EJM) dataset which was built up in the Workathon last year. Once again, we will work for about 10 hours a day, manually collecting and developing this dataset.
+To increase awareness for the anti-discrimination causes, we will be recruiting volunteers to work on EJM’s dataset together for the three-day event. The volunteers will mainly be recruited from the Economics discipline at the University of British Columbia, along with some high school students. All participants of the Workathon are encouraged to collect as many data entries as they can. The joint efforts of the students will lead to a stronger positive impact over the community. 
 
-Once we finish, we will donate all our wages for the three day Workathon to many amazing causes, including (insert causes here).
+To raise as many funds as we can for the organizations, we will be promoting the event with the help of UBC media. We, along with Professor Peters, will also be reaching out to potential donors (including faculty members, local businesses, and international corporations) who may be interested in supporting our causes.
 
-We would like that as many people:
-1. match our donation, and
-2. listen to those most affected by discrimination to strive for the acceptance of everyone regardless of the color of their skin, their gender, or their sexual orientation
-
-Most importantly, we want to draw attention to issues of race, gender, and intersectionality, in particular, the impacts they have on students, faculty, and staff members, which must be evaluated by all of us. 
-
-We hope that the Workathon, like last year's, will help with this process.
-
-## Instructions for Participants
-
-(something here about NDAs).
-
+To conclude, by running the Workathon this year, we aim to fundraise for organizations that work to support First Nations peoples, Asian American and Pacific Islander communities, and women in need; and to complete a database that students and alumni can use to guide their plans for a career in economics.
