@@ -10,11 +10,15 @@ You should then see your username appear on screen. If this happens, you are log
 
 ## Step 2: Pick an institution
 
+TODO: change to applicant database page
+
 Go to [https://support.econjobmarket.org/institutions](https://support.econjobmarket.org/institutions) and click on any number beside the name of an institution in the table (e.g. Harvard University has a 350 beside it, UBC has a 57 beside it).
 
 You should then see a big list of departments inside the institution, which completes this step.
 
 ## Step 3: Find the missing entries for a department in that institution
+
+TODO: change to missing entries, mention all shortcuts
 
 On the page you just found, there should be a list of multiple "departments" (e.g. Vancouver School of Economics, Sauder School of Business, etc). Underneath each are two links: "Graduates with outcomes" and "Graduates with no outcomes". Click on "Graduates with no outcomes".
 
