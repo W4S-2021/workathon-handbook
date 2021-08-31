@@ -1,0 +1,70 @@
+Workathon Training Session Notes
+
+What is Econ Job Market?
+An economics job placement website used by universities worldwide
+Companies place ads on the website, then graduates apply to them
+The website makes it easier to find employers and employee candidates
+Econjobmarket.org
+We are building a public dataset of the job market using data partially provided by econjobmarket - there is one missing piece that must be found manually
+
+What is Expected from Volunteers?
+Work as many hours as you can whenever you want on July 2, 3 and 4
+We will give you a list of graduates that are missing “placements”, or the institutions that they were first hired to
+Use Google search to figure out where each one was hired and record it on econjobmarket
+Last year’s Workathon found 3000+ entries with 4 people over 66 collective hours
+
+What is the Mapinator?
+https://sage.microeconomics.ca
+The site of the public database
+Use it to keep track of how many entries the Workathon has found so far
+Check how many entries you made by finding your user ID on the site
+
+How to Login and find your User ID?
+Begin by going to support.econjobmarket.org/user
+There you will be able to type in your username and password. You will have gotten these from an email sent to you by econ job market. If you have not, please contact us on discord.
+You can find your user # once you are logged in, in the url (support.econjobmarket.org/user/your#here) once you are at your user page (it will autofill your number once the page is loaded).
+You can then also use this ID to check your progress on the Mapinator by finding the table cell on the site with your ID number in it
+
+
+How to Complete an Entry?
+Go to the Applicant Database page on the far right.
+Click the year and type in the university attended in the box below, this information will have been already assigned to you, you do not need to find it.
+Scroll down and find the Applicants name who you've been assigned. Click on the blue number next to their name to take you to their page.
+Once you are at their page, click add an outcome at the bottom. Only you will be able to edit this page for the next 5 minutes.
+Google search the name of the person, if this does not bring up the right person, try adding econ or their institution after their name.
+Once you find the right person, find all positions they've held since graduating their PhD and enter them into their page on econ job market.
+Make sure you type the place they work into the box, if their place of work does not exist in our system, use 893 instead and include the name of their workplace in the notes section.
+Next add the position, often it is assistant professor, but if they work at a private institution it is often other non-academic.
+Next add the url you found this information at (there is a box for this).
+Finally, once all info is collected, click add outcome at the bottom of the page.
+
+What to Do If You Can't Find a Result?
+Check other platforms such as LinkedIn, Twitter, and company employment sites. Using your detective instincts
+If nothing can be found, type in “Ocean and Crow” in the organization box (or enter 893), check the box “I cannot find a placement for this applicant” and leave an url in the hint box for the next researcher
+
+What If the Organization is Not in the System?
+Type in “Ocean and Crow” in the organization box, or enter 893 in the box (893 is the organization id for organizations not included in the system)
+Leave an url for where you found the information
+Note that sometimes organizations are listed in the system in their original languages (German, French, and etc.). So if you can’t find them using the English names, search for their original names
+
+What If the Candidate Graduated A Long Time Ago?
+Occasionally, we will run into candidates registered in the database who graduated a long time ago and now are full professors. When dealing with these candidates, please record every feasible entry on their CVs.
+Note that the Start Year in 2006 is not available in the system. So please record all the other positions in the usual manner but record the ones started in 2006 in the note box located at the bottom of each profile. 
+
+Some Tips:
+PhD graduates usually start with Assistant Professor in their placement universities
+Position Type: “Other Academic” vs. “Other Non-Academic”
+Example: corporate job (Amazon, IMF, banks, etc.) -> “Other Non-Academic”
+“Other Academic” is only for position types within universities
+Prizes and the Leaderboard
+On the aforementioned Mapinator, there is an anonymous leaderboard where you can check your position by looking for your ID # ( see login section to find this). The prizes are as follows:
+1st place - $50 Amazon gift card
+2nd place - $25 gift card
+3rd place - $25 gift card
+
+Who’s Who
+Soren - Workathon core member, please reach out for questions about data entry and account info.
+James - Workathon core member, please reach out for questions about the mapinator, tracking your progress and econjobmarket
+Jin - Workathon core member, please reach out for questions about data entry and account info
+Alex - Workathon core member, please reach out for questions about the mapinator, zoom/discord issues
+
