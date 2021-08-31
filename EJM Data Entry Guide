@@ -1,0 +1,27 @@
+<Background>
+For background, we are trying to construct a dataset of where PhD economics graduates from around the world were hired at based on data supplied by econjobmarket.org, which is an economics job placement website used by universities worldwide. Companies place ads on the website, and then graduates apply to the companies. The idea is that we or anyone else could use the dataset to study how the job market works, or perhaps make more informed decisions about what grad schools to apply to.
+Econjobmarket itself is just a means of exchange. We have the graduates and we have where they graduated from, but we do not have data on where they were hired to because there’s no such button on Econjobmarket. This is the part that needs manual work.
+
+<Entry Creation Process>
+https://docs.google.com/presentation/d/189iw1AlgunoB0iFBNRlHxY9sX38ylmc2yD_8W1nEcyU/edit#slide=id.ge22eeb1bfc_0_12
+See page 4-10
+
+<Corner Cases>
+Foreign University Name
+	If you cannot find the university name in the list when entering its English name, try entering its original name, vice versa. 
+oid=893 
+-Two scenarios where you would be using this oid: 1. Candidate’s placement organization not included in the ejm list, 2. No information can be found for the candidate.
+-If scenario 1, make a note in the note section of which organization it is. If scenario 2, leave an url as a hint for the next searcher, and you need to check the box stating this person cannot be found.
+Start Year in 2006
+Record all the other feasible entries in the regular manner, and make a note for the ones started in 2006.
+University of Western Ontario/Western University
+	The oid is 61, although it does not show up in the organization drop-down list when creating the entries.
+
+<Tips and Notes>
+Please always make sure the data being entered are accurate and that you are confident with them. If there’s any doubt, even the tiniest ones, we encourage you to always do additional searches to ensure. These searches won’t take long though.
+PhD graduates usually start with Assistant Professor in their placement universities
+Position Type: “Other Academic” vs. “Other Non-Academic”
+Example: corporate/government job (Amazon, IMF, banks, etc.) -> Other Non-Academic
+Other Academic is only for position types within universities
+Utilize Twitter, LinkedIn, Company employee pages, etc.
+Similar to the Western University example, sometimes you can double check if an organization id is available by using ApplicantDatabase -> enter the name of the university in the text box below “Choose an institution to check”. In this way there will be profiles with the specific university showing up, click into one of the profiles to obtain the oid. This way you can ensure that the available organizations will not be recorded as 893 in cases where they don’t show up in the drop-down list.
